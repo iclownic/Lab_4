@@ -1,0 +1,13 @@
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\bin\Debug\net9.0\Task_1.exe
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\bin\Debug\net9.0\Task_1.dll.config
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\bin\Debug\net9.0\Task_1.deps.json
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\bin\Debug\net9.0\Task_1.runtimeconfig.json
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\bin\Debug\net9.0\Task_1.dll
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\bin\Debug\net9.0\Task_1.pdb
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\obj\Debug\net9.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\obj\Debug\net9.0\Task_1.csproj.CoreCompileInputs.cache
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\obj\Debug\net9.0\Task_1.dll
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\obj\Debug\net9.0\refint\Task_1.dll
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\obj\Debug\net9.0\Task_1.pdb
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\obj\Debug\net9.0\Task_1.genruntimeconfig.cache
+C:\Users\iclownic\Documents\Visual Studio 2022\Project\IK_33_2term\Lab_4\Task_1\obj\Debug\net9.0\ref\Task_1.dll
