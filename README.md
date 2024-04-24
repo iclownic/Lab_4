@@ -1,4 +1,4 @@
-# Lab 3
+# Lab 4
 **Classes and Objects. Constructors and Destructors. Modifiers.**
 
 ### Task 1:
