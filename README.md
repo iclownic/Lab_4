@@ -1,5 +1,5 @@
 # Lab 4
-**Classes and Objects. Constructors and Destructors. Modifiers.**
+**Polymorphism. Inheritance. Overload of methods.**
 
 ### Task 1:
 Create an object of the Flower class using the Petal and Bud classes. Methods: bloom, fade, display the color of the bud on the console.
